@@ -2,8 +2,8 @@
   "type": "app_base:Qmtesting",
   "name": "app_store_cloud",
   "data": {
-    "appId": "cloud_appstore",
-    "name": "Cloud Second with App Store",
+    "appId": "app_rpi_default",
+    "name": "Raspberry Pi Default Second",
     "release": "production",
     "version": 1,
     "releaseNotes": "...",
