@@ -1,0 +1,8 @@
+{
+  "type": "capability:0.0.1:local:187h78h23",
+  "name": "file_capability",
+  "data": {
+    "key": "File",
+    "version": "1.0.0"
+  }
+}
