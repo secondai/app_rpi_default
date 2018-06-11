@@ -1,6 +1,6 @@
 {
   "type": "app_base:Qmtesting",
-  "name": "app_store_cloud",
+  "name": "app_rpi_default",
   "data": {
     "appId": "app_rpi_default",
     "name": "Raspberry Pi Default Second",
