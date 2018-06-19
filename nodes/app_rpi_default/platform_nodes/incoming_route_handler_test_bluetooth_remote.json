@@ -1,0 +1,10 @@
+{
+  "type": "incoming_route_handler:Qmsdfkj329j3",
+  "name": "incoming_route_handler_test_bluetooth_remote",
+  "data": {
+    "priority": 5,
+    "routes": [
+      "/test-bluetooth"
+    ]
+  }
+}
