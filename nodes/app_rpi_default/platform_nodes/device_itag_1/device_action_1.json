@@ -1,0 +1,8 @@
+{
+  "type": "device_action:Qmdsflkj",
+  "name": "device_action_1",
+  "data": {
+    "action": "getStatus",
+    "description": "connected or not"
+  }
+}
