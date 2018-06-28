@@ -1,0 +1,9 @@
+{
+  "type": "device:Qmslkfj332",
+  "name": "device_usbmic",
+  "data": {
+    "status": "",
+    "name": "usbmic",
+    "enabled": true
+  }
+}
