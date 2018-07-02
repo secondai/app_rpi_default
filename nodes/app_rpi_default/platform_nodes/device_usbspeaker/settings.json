@@ -2,6 +2,7 @@
   "type": "settings:Qmf329ffhj9f823h",
   "name": "settings",
   "data": {
-    "address": "plughw:CARD=Device_1,DEV=0"
+    "addressHW": "plughw:CARD=Device_1,DEV=0",
+    "address": "plug:dmix"
   }
 }
