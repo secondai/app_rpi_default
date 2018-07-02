@@ -1,9 +1,9 @@
 {
   "type": "device:Qmslkfj332",
-  "name": "device_spotify",
+  "name": "device_audio_server",
   "data": {
     "status": "",
-    "name": "spotify",
+    "name": "audio_server",
     "enabled": true
   }
 }

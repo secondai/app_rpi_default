@@ -2,7 +2,7 @@
   "type": "device:Qmslkfj332",
   "name": "device_sprinkler",
   "data": {
-    "status": "off",
+    "status": "on",
     "name": "sprinkler",
     "enabled": true
   }
