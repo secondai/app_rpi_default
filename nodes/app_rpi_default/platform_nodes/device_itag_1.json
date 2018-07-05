@@ -3,6 +3,8 @@
   "name": "device_itag_1",
   "data": {
     "status": "",
+    "uuid": "a383828c-9ee3-47b3-ac0d-4ca4370d6655",
+    "state": {},
     "name": "itag1",
     "enabled": true
   }

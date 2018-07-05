@@ -2,6 +2,8 @@
   "type": "device:Qmslkfj332",
   "name": "device_audio_server",
   "data": {
+    "uuid": "978fda5a-5834-426c-b933-6d3b040ba716",
+    "state": {},
     "status": "",
     "name": "audio_server",
     "enabled": true

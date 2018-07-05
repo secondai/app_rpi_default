@@ -2,6 +2,10 @@
   "type": "device:Qmslkfj332",
   "name": "device_sprinkler",
   "data": {
+    "uuid": "7ddc25b9-f601-4aa2-8901-3f7b7341c93d",
+    "state": {
+      "status": "off"
+    },
     "status": "off",
     "name": "sprinkler",
     "enabled": true

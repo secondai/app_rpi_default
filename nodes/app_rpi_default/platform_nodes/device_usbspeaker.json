@@ -2,6 +2,8 @@
   "type": "device:Qmslkfj332",
   "name": "device_usbspeaker",
   "data": {
+    "uuid": "217357ea-df62-4247-b196-a9010f51a343",
+    "state": {},
     "status": "",
     "name": "usbspeaker",
     "enabled": true
