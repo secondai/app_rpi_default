@@ -2,6 +2,8 @@
   "type": "device:Qmslkfj332",
   "name": "device_usbmic",
   "data": {
+    "uuid": "b37ed830-6513-4d4f-9b6c-fb8fa7361912",
+    "state": {},
     "status": "",
     "name": "usbmic",
     "enabled": true
